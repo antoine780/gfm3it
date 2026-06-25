@@ -749,7 +749,7 @@ function ProjectDetailPage({ t, item }) {
 
 function getProjectGallery(slug, fallback) {
   const galleries = {
-    'impact-4-life': ['/assets/img/pr_1.jpg', '/assets/img/pr5_6.jpeg'],
+    'impact-4-life': ['/assets/img/pr_1.jpg'],
     'cocoa-life': ['/assets/img/cocoalife1.jpeg', '/assets/img/cocoalife2.jpeg', '/assets/img/cocoalife3.jpeg', '/assets/img/cocoalife4.jpeg'],
     'swedd-genre': ['/assets/img/pr_3.jpg', '/assets/img/baniere_swedd.jpg', '/assets/img/baniere_sweed_2.jpg'],
     pmndpe: ['/assets/img/pr_4.jpg', '/assets/img/pr4_1.jpg', '/assets/img/pr4_2.jpg', '/assets/img/pr4_3.jpg'],
