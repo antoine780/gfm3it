@@ -80,7 +80,7 @@ const content = {
     nav: [
       ['about', 'A PROPOS'],
       ['projects', 'Projets'],
-      ['news', 'ACTUALITÉS'],
+      ['news', 'ACTUALITÉES'],
       ['cecaref', 'CECAREF'],
       ['collaborate', 'Collaborer'],
       ['contact', 'CONTACTEZ-NOUS'],
