@@ -149,7 +149,7 @@ const content = {
       paragraphs: [
         "La Côte d'Ivoire a traversé une crise militaro-politique en 2002 qui a profondément fragilisé les populations, notamment les femmes et les enfants. Après cette crise, un groupe d'amis, dont Madame Honorine VEHI TOURE, a décidé de porter secours aux parents sinistrés dans l'Ouest du pays.",
         "Ces femmes collectaient des vêtements, des kits alimentaires et hygiéniques qu'elles distribuaient dans les villages pour soutenir les femmes devenues cheffes de familles, leurs enfants orphelins, ainsi que les jeunes à risque. Face à l'ampleur des besoins, ce groupe s'est mué en organisation non gouvernementale.",
-        "C'est ainsi que le 30 avril 2004 est née officiellement l'ONG Génération Femme du 3ème Millénaire (GFM3). L'organisation a débuté par l'assistance aux populations vulnérables avant de devenir pionnière dans l'identification et la prise en charge des porteuses de fistule obstétricale en Côte d'Ivoire.",
+        "C'est ainsi que le 30 avril 2004 est née officiellement l'ONG Génération Femme du 3ème Millénaire (GFM3). L'organisation a débuté par l'assistance aux populations vulnérables avant de devenir pionnière dans l'identification et la prise en charge des porteuses de fistule obstétricale en Côte d'Ivoire..",
       ],
       theory: 'THEORIE DU CHANGEMENT BASEE SUR DES PILIERS STRATEGIQUES',
       bioEyebrow: 'Biographie',
